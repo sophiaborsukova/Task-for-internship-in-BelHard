@@ -27,12 +27,12 @@ def main():
     host = namespace.host
     port = namespace.port
 
-    server = 'gnome-terminal -- python3 second.py -host %s -port %s' % (host, port)
+    server = 'gnome-terminal -- python3 server.py -host %s -port %s' % (host, port)
     subprocess.call(server, shell=True)
 
     i = 0
     while i < num_of_cl:
-        client = 'gnome-terminal -- python3 secondcl.py -nhost %s -port %s' % (clhost, port)
+        client = 'gnome-terminal -- python3 client.py -nhost %s -port %s' % (clhost, port)
         subprocess.call(client, shell=True)
         i += 1
 
