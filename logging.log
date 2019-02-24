@@ -1,0 +1,500 @@
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 0, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 1, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 2, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 3, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 recieved: Thread 4, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51856 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 1
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 2
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 5
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 10
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 17
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 26
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 37
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 50
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 65
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 0, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 1, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 2, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 3, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 recieved: Thread 4, iteration 82
+INFO	| 2019-02-21 22:15:49 --127.0.0.1:51860 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 0, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 1, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 2, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 3, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 recieved: Thread 4, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51862 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 0, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 1, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 2, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 3, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 recieved: Thread 4, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51864 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 1
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 2
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 5
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 10
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 17
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 26
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 37
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 50
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 65
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 0, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 1, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 2, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 3, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 recieved: Thread 4, iteration 82
+INFO	| 2019-02-21 22:15:50 --127.0.0.1:51866 send: ok
