@@ -85,7 +85,6 @@ def get_password(username):
     if username == 'serv':
         return '4_task'
 
-#взяла у Влада
 def limit_content_length():
     ''' Декоратор для ограничения размера передаваемых клиентом данных. '''
     def decorator(f):
