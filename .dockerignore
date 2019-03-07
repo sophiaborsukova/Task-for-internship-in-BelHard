@@ -1,0 +1,5 @@
+*.md
+*.log.*
+*.log
+webclient.py
+*.git
