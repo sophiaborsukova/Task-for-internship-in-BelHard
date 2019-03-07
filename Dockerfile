@@ -11,6 +11,9 @@ ENV TZ=Europe/Minsk
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 RUN dpkg-reconfigure -f noninteractive tzdata
 
+COPY . /rest_server
+WORKDIR /rest_server
+
 #for python3
 RUN pip3 install --upgrade pip
 RUN pip3 install decorator flask==1.0.2 flask-httpauth==3.2.4 gevent==1.3.7 requests
